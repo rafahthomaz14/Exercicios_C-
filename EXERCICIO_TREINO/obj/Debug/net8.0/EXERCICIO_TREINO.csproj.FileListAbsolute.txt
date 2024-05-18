@@ -1,0 +1,14 @@
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\bin\Debug\net8.0\EXERCICIO_TREINO.exe
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\bin\Debug\net8.0\EXERCICIO_TREINO.deps.json
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\bin\Debug\net8.0\EXERCICIO_TREINO.runtimeconfig.json
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\bin\Debug\net8.0\EXERCICIO_TREINO.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\bin\Debug\net8.0\EXERCICIO_TREINO.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\EXERCICIO_TREINO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\EXERCICIO_TREINO.AssemblyInfoInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\EXERCICIO_TREINO.AssemblyInfo.cs
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\EXERCICIO_TREINO.csproj.CoreCompileInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\EXERCICIO_TREINO.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\refint\EXERCICIO_TREINO.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\EXERCICIO_TREINO.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\EXERCICIO_TREINO.genruntimeconfig.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO_TREINO\obj\Debug\net8.0\ref\EXERCICIO_TREINO.dll
