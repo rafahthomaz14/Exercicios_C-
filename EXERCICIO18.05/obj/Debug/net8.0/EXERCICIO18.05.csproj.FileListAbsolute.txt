@@ -1,0 +1,14 @@
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\bin\Debug\net8.0\EXERCICIO18.05.exe
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\bin\Debug\net8.0\EXERCICIO18.05.deps.json
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\bin\Debug\net8.0\EXERCICIO18.05.runtimeconfig.json
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\bin\Debug\net8.0\EXERCICIO18.05.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\bin\Debug\net8.0\EXERCICIO18.05.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\EXERCICIO18.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\EXERCICIO18.05.AssemblyInfoInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\EXERCICIO18.05.AssemblyInfo.cs
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\EXERCICIO18.05.csproj.CoreCompileInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\EXERCICIO18.05.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\refint\EXERCICIO18.05.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\EXERCICIO18.05.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\EXERCICIO18.05.genruntimeconfig.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\EXERCICIO18.05\obj\Debug\net8.0\ref\EXERCICIO18.05.dll
