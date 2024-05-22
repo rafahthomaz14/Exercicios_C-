@@ -1,0 +1,14 @@
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\bin\Debug\net8.0\TREINO_PROVA.exe
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\bin\Debug\net8.0\TREINO_PROVA.deps.json
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\bin\Debug\net8.0\TREINO_PROVA.runtimeconfig.json
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\bin\Debug\net8.0\TREINO_PROVA.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\bin\Debug\net8.0\TREINO_PROVA.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\TREINO_PROVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\TREINO_PROVA.AssemblyInfoInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\TREINO_PROVA.AssemblyInfo.cs
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\TREINO_PROVA.csproj.CoreCompileInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\TREINO_PROVA.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\refint\TREINO_PROVA.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\TREINO_PROVA.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\TREINO_PROVA.genruntimeconfig.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\TREINO_PROVA\obj\Debug\net8.0\ref\TREINO_PROVA.dll
