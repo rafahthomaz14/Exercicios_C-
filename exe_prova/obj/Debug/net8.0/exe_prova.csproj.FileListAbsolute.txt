@@ -1,0 +1,14 @@
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\bin\Debug\net8.0\exe_prova.exe
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\bin\Debug\net8.0\exe_prova.deps.json
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\bin\Debug\net8.0\exe_prova.runtimeconfig.json
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\bin\Debug\net8.0\exe_prova.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\bin\Debug\net8.0\exe_prova.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\exe_prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\exe_prova.AssemblyInfoInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\exe_prova.AssemblyInfo.cs
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\exe_prova.csproj.CoreCompileInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\exe_prova.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\refint\exe_prova.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\exe_prova.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\exe_prova.genruntimeconfig.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\exe_prova\obj\Debug\net8.0\ref\exe_prova.dll
